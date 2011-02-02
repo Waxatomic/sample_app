@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:smcdonnell</key>
+	<false/>
+	<key>ExpandedEditorWidth:smcdonnell:displays([(0, 0), (1920, 1200)])</key>
+	<integer>640</integer>
+	<key>ExpandedItems:smcdonnell</key>
+	<array/>
+	<key>FileFilterID:smcdonnell</key>
+	<string>msng</string>
+	<key>OpenDocuments:smcdonnell</key>
+	<array>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAGoAAIAAAdoZWF2eTAwAAAAAAAAAAAAAAAAAAAAAAAAAADE
+			oWFCSCsAAAYvQc4PUkVBRE1FLm1hcmtkb3duAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABjCG
+			Kclt8wdURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACnNh
+			bXBsZV9hcHAAEAAIAADEoZmCAAAAEQAIAADJbjlXAAAAAQAUBi9B
+			zgYsFMMAD/EsAA+R5QAPkXgAAgBGaGVhdnkwMDpVc2VyczpzbWNk
+			b25uZWxsOmRldjpyYWlsc19wcm9qZWN0czpzYW1wbGVfYXBwOlJF
+			QURNRS5tYXJrZG93bgAOACAADwBSAEUAQQBEAE0ARQAuAG0AYQBy
+			AGsAZABvAHcAbgAPABAABwBoAGUAYQB2AHkAMAAwABIAPlVzZXJz
+			L3NtY2Rvbm5lbGwvZGV2L3JhaWxzX3Byb2plY3RzL3NhbXBsZV9h
+			cHAvUkVBRE1FLm1hcmtkb3duABMAAS8AABUAAgAR//8AAA==
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/smcdonnell/dev/rails_projects/sample_app/README.markdown</string>
+			<key>RelativePath</key>
+			<string>./README.markdown</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>ShowInvisibles:smcdonnell</key>
+	<false/>
+	<key>ShowSCMData:smcdonnell</key>
+	<false/>
+	<key>TextFilesOnly:smcdonnell</key>
+	<true/>
+	<key>ToolbarVisible:smcdonnell</key>
+	<true/>
+	<key>ViewSplitterPosition:smcdonnell</key>
+	<real>0.26011559367179871</real>
+	<key>WindowFrame:smcdonnell:displays([(0, 0), (1920, 1200)])</key>
+	<string>rect(44,0,1196,865)</string>
+</dict>
+</plist>
